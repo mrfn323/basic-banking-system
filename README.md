@@ -1,5 +1,5 @@
 # Basic-Banking-System
-This is a remodified version of my database mangement systems final project. Repurposed to be hosted on my personal website and database. 
+This is a remodified version of my database management systems final project. Repurposed to be hosted on my personal website and database. 
 
 You can view the live project at https://syedfahadnadeem.com/projects/banking-system/
 
