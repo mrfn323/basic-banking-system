@@ -5,6 +5,8 @@ You can view the live project at https://syedfahadnadeem.com/projects/banking-sy
 
 ## Database structure
 
+![EER Diagram](EER/EER_Diagram.jpg)
+
 **Accounts Table**
 ```
 CREATE TABLE `Accounts` (
